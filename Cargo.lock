@@ -24,6 +24,7 @@ name = "aleo-std-profiler"
 version = "0.1.12"
 dependencies = [
  "colored",
+ "lazy_static",
 ]
 
 [[package]]

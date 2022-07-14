@@ -22,7 +22,7 @@ aleo-std-timer = { path = "./timer", version = "0.1.1", default-features = false
 version = "0.11.2"
 
 [features]
-default = ["full"]
+default = ["full", "profiler"]
 
 # Supported feature modes
 
